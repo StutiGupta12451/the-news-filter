@@ -3,7 +3,7 @@ import joblib
 import numpy as np
 import nltk
 nltk.download("punkt")
-
+nltk.download("punkt_tab")
 from tensorflow.keras.models import load_model
 from transformers import MarianMTModel, MarianTokenizer
 from sumy.parsers.plaintext import PlaintextParser
@@ -89,3 +89,4 @@ with tabs[2]:
         else:
 
             st.warning("Enter some text to summarize.")
+
