@@ -7,3 +7,4 @@ sentencepiece
 sumy
 scikit-learn
 torch
+nltk
