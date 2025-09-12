@@ -1,10 +1,10 @@
 streamlit
 numpy
 joblib
-tensorflow
+tensorflow==2.15.0
+scikit-learn
+torch
 transformers
 sentencepiece
 sumy
-scikit-learn
-torch
 nltk
