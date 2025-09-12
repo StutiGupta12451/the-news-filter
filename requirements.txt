@@ -8,3 +8,4 @@ nltk
 sumy
 torch
 transformers
+joblib
