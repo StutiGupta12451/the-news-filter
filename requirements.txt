@@ -1,0 +1,7 @@
+streamlit
+numpy
+joblib
+tensorflow
+transformers
+sentencepiece
+sumy
