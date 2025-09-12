@@ -5,3 +5,4 @@ tensorflow
 transformers
 sentencepiece
 sumy
+scikit-learn
