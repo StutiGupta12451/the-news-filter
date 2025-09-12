@@ -1,6 +1,9 @@
 import streamlit as st
 import joblib
 import numpy as np
+import nltk
+nltk.download("punkt")
+
 from tensorflow.keras.models import load_model
 from transformers import MarianMTModel, MarianTokenizer
 from sumy.parsers.plaintext import PlaintextParser
@@ -84,4 +87,5 @@ with tabs[2]:
             st.success("Summary:")
             st.write(summary)
         else:
+
             st.warning("Enter some text to summarize.")
