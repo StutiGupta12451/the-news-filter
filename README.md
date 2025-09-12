@@ -98,8 +98,3 @@ the-news-filter/
 ## 📜 License
 
 This project is licensed under the MIT License.
-
----
-
-👉 Would you like me to also add a **demo usage example with screenshots** (like input/output of classification + summary) so the README looks more professional for GitHub?
-
