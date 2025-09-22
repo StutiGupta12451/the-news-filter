@@ -95,6 +95,3 @@ the-news-filter/
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.
